@@ -14,7 +14,7 @@ Scroll through webpage or just links to quickly navigate. Check screenshot for p
 
 
     
-    ![screenshot of finished project](assets/images/screenshot.png)
+    ![Alt text](/assets/images/screenshot.png?raw=true "Optional Title")
     
 
 ## Credits
