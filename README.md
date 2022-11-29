@@ -14,7 +14,7 @@ Scroll through webpage or just links to quickly navigate. Check screenshot for p
 
 
     
-    ![Alt text](/assets/images/screenshot.png?raw=true "Optional Title")
+![Alt text](https://github.com/rzepa000/horiseon-rework/blob/eb8746c24feada604c61741006c83ad17f49cea8/assets/images/screenshot.png)
     
 
 ## Credits
