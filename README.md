@@ -10,12 +10,12 @@ N/A
 
 ## Usage
 
-Scroll through webpage or just links to quickly navigate. Include screenshots as needed.
+Scroll through webpage or just links to quickly navigate. Check screenshot for preview.
 
 
-    ```md
+    
     ![screenshot of finished project](assets/images/screenshot.png)
-    ```
+    
 
 ## Credits
 
